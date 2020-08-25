@@ -13,16 +13,16 @@ This program is made as a Gmail workspace, made for people that get lots of mail
 
 
 ### Task list
-- [] HTML
-    - []
-- [] CSS
-    - []
-- [] JS
-    - []
-- [] API
-    - []
-- [] ETC.
-    - [] Local storage for selected Gmail.
+- [ ] HTML
+    - [ ]
+- [ ] CSS
+    - [ ]
+- [ ] JS
+    - [ ]
+- [ ] API
+    - [ ]
+- [ ] ETC.
+    - [ ] Local storage for selected Gmail.
 
 
 ## Contributing
